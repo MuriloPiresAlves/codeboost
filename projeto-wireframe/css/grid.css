@@ -1,0 +1,6 @@
+.container {
+  width: 100%;
+  max-width: 1246px; /*Originalmente era 1216px, mas como acrescentou 15px de padding de cada lado, foi necessário aumentar 30px no conteúdo para que ele continuasse com o alinhamento (grid) da página*/
+  margin: 0 auto;
+  padding: 0px 15px; /*Respiro para dispositivos móveis*/
+}
